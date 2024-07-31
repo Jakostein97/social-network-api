@@ -5,4 +5,4 @@ const Reaction = require('./Reaction');
 
 
 
-module.exports = { Student, Course };
+module.exports = { User, Thought, Reaction };
