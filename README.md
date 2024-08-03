@@ -37,6 +37,12 @@ The Social Network API is a backend application for a social network web applica
 
 ![Applicaiton Walkthrough GIF](assets/images/screenshot.png)
 
+## Technologies
+
+- MongoDB
+- Node.js
+- Express.js
+
 ## License
 
 This project is licensed under the MIT License.
