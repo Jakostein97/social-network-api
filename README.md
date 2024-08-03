@@ -35,7 +35,8 @@ The Social Network API is a backend application for a social network web applica
 
 [Visit GitHub Repo](https://github.com/Jakostein97/social-network-api)
 
-![Applicaiton Walkthrough GIF](assets/images/screenshot.png)
+<video src="/assets/images/Social Network API Walkthrough.mp4" width="600" height="400" controls></video>
+
 
 ## Technologies
 
